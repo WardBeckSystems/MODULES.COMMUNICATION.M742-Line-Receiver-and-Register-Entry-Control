@@ -1,6 +1,6 @@
 # M742 Line Receiver and Register Entry Control · Communication
 
-Ward-Beck Systems M742. Wiki page: [M742 on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/PAGES/M742.html)
+Ward-Beck Systems M742. Wiki page: [M742 on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/WBSps.ca/Github.WardBeckSystems/MODULES.COMMUNICATION.M742-Line-Receiver-and-Register-Entry-Control/)
 
 | Folder | What is in it | Files |
 |---|---|---|

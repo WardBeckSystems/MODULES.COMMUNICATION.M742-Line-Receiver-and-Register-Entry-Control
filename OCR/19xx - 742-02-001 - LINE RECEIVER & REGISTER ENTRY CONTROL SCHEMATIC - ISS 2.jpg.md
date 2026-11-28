@@ -1,5 +1,5 @@
 # 19xx - 742-02-001 - LINE RECEIVER & REGISTER ENTRY CONTROL SCHEMATIC - ISS 2.jpg
-Wiki page: [M742](../../../../PAGES/M742.md)
+Wiki page: [M742](../)
 
 
 - **Year:** unknown (title block (read by eye))
